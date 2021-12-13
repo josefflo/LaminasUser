@@ -19,7 +19,7 @@
 		}
 	},
 	"require" : {
-		"php" : "^7.2",
+		"php" : "^7.2 || ~8.0.0",
 		"laminas/laminas-authentication" : "^2.5",
 		"laminas/laminas-crypt" : "^3.0",
 		"laminas/laminas-form" : "^2.9",
